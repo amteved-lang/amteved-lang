@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Ved Amte<br><br>Computer Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Software Development. Passionate about building practical solutions, exploring emerging technologies, and applying engineering principles to solve real-world problems.<br>Experienced with Python, AI/ML concepts, and software development projects, with a focus on continuous learning and technical growth. Actively seeking opportunities to contribute to innovative projects, collaborate with like-minded developers, and expand my expertise in the field of technology.<br><br>⚡Fun fact: I enjoy turning ideas into projects and continuously learning new technologies<br>
 
 
